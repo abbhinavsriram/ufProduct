@@ -57,41 +57,6 @@ class CustomNavbar extends Component {
 											aria-haspopup="true"
 											aria-expanded="false"
 										>
-											Service
-										</Link>
-										<ul role="menu" className=" dropdown-menu">
-											<li className="nav-item">
-												<NavLink
-													exact
-													title="Service"
-													className="nav-link"
-													to="/Service"
-												>
-													Service
-												</NavLink>
-											</li>
-											<li className="nav-item">
-												<NavLink
-													exact
-													title="Service Details"
-													className="nav-link"
-													to="/ServiceDetails"
-												>
-													Service Details
-												</NavLink>
-											</li>
-										</ul>
-									</li>
-									<li className="dropdown submenu nav-item">
-										<Link
-											to="./"
-											title="Pages"
-											className="dropdown-toggle nav-link"
-											data-toggle="dropdown"
-											role="button"
-											aria-haspopup="true"
-											aria-expanded="false"
-										>
 											Pages
 										</Link>
 										<ul role="menu" className=" dropdown-menu">
@@ -167,57 +132,7 @@ class CustomNavbar extends Component {
 											</li>
 										</ul>
 									</li>
-									<li className="dropdown submenu nav-item">
-										<Link
-											title="Pages"
-											className="dropdown-toggle nav-link"
-											data-toggle="dropdown"
-											role="button"
-											aria-haspopup="true"
-											aria-expanded="false"
-											to="#"
-										>
-											Portfolio
-										</Link>
-										<ul role="menu" className=" dropdown-menu">
-											<li className="nav-item">
-												<NavLink
-													title="Portfolio 2"
-													className="nav-link"
-													to="/Portfolio-2col"
-												>
-													Portfolio 2col
-												</NavLink>
-											</li>
-											<li className="nav-item">
-												<NavLink
-													title="Portfolio 3"
-													className="nav-link"
-													to="/Portfolio-3col"
-												>
-													Portfolio 3col
-												</NavLink>
-											</li>
-											<li className="nav-item">
-												<NavLink
-													title="Portfolio Fullwidth"
-													className="nav-link"
-													to="/Portfolio-fullwidth-4col"
-												>
-													Portfolio fullwidth
-												</NavLink>
-											</li>
-											<li className="nav-item">
-												<NavLink
-													title="PortfolioSingle"
-													className="nav-link"
-													to="/PortfolioSingle"
-												>
-													Portfolio Single
-												</NavLink>
-											</li>
-										</ul>
-									</li>
+
 									<li className="nav-item dropdown submenu">
 										<a
 											className="nav-link dropdown-toggle"
