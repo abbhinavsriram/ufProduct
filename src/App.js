@@ -47,6 +47,10 @@ class App extends Component {
 			<Router>
 				<Switch>
 					<ScrollToTopRoute exact={true} path={'/'} component={Home} />
+					<ScrollToTopRoute path="/About" component={About} />
+					<ScrollToTopRoute path="/Fellowship" component={Fellowship} />
+					<ScrollToTopRoute path="/Team" component={Team} />
+					<ScrollToTopRoute path="/Contact" component={Contact} />
 					<ScrollToTopRoute
 						path="/Digital-marketing"
 						component={DigitalMarketing}
@@ -58,37 +62,17 @@ class App extends Component {
 					<ScrollToTopRoute path="/HR-Management" component={HRManagement} />
 					<ScrollToTopRoute path="/Startup" component={Startup} />
 					<ScrollToTopRoute path="/Home-CRM" component={HomeCRM} />
-					<ScrollToTopRoute path="/About" component={About} />
 					<ScrollToTopRoute path="/Service" component={Service} />
-					<ScrollToTopRoute path="/Fellowship" component={Fellowship} />
-					<ScrollToTopRoute path="/Team" component={Team} />
 					<ScrollToTopRoute path="/Portfolio-2col" component={Portfolio2col} />
 					<ScrollToTopRoute path="/Portfolio-3col" component={Portfolio3col} />
-					<ScrollToTopRoute
-						path="/Portfolio-fullwidth-4col"
-						component={Portfoliofull4col}
-					/>
-					<ScrollToTopRoute
-						path="/PortfolioSingle"
-						component={PortfolioSingle}
-					/>
 					<ScrollToTopRoute path="/Bloglist" component={Bloglist} />
 					<ScrollToTopRoute path="/BlogSingle" component={BlogSingle} />
 					<ScrollToTopRoute path="/BlogGridPage" component={BlogGridPage} />
-					<ScrollToTopRoute path="/Contact" component={Contact} />
 					<ScrollToTopRoute path="/Landing" component={Landing} />
 					<ScrollToTopRoute path="/home-support" component={homesupport} />
 					<ScrollToTopRoute path="/HomeHosting" component={homeHosting} />
 					<ScrollToTopRoute path="/Home-ERP" component={homeERP} />
 					<ScrollToTopRoute path="/HomeSecurity" component={homeSecurity} />
-					<ScrollToTopRoute
-						path="/HomeAppShowcase"
-						component={HomeAppShowcase}
-					/>
-					<ScrollToTopRoute
-						path="/Home-software-dark"
-						component={homeSoftwareDark}
-					/>
 					<ScrollToTopRoute path="/Home-cloud" component={HomeCloud} />
 					<ScrollToTopRoute path="/Home-Tracking" component={HomeTracking} />
 					<ScrollToTopRoute path="/Home-event" component={HomeEvent} />
@@ -99,6 +83,22 @@ class App extends Component {
 					<ScrollToTopRoute path="/SignIn" component={SignIn} />
 					<ScrollToTopRoute path="/SignUp" component={SignUp} />
 					<ScrollToTopRoute component={NotFound} />
+					<ScrollToTopRoute
+						path="/Portfolio-fullwidth-4col"
+						component={Portfoliofull4col}
+					/>
+					<ScrollToTopRoute
+						path="/PortfolioSingle"
+						component={PortfolioSingle}
+					/>
+					<ScrollToTopRoute
+						path="/HomeAppShowcase"
+						component={HomeAppShowcase}
+					/>
+					<ScrollToTopRoute
+						path="/Home-software-dark"
+						component={homeSoftwareDark}
+					/>
 				</Switch>
 			</Router>
 		);
