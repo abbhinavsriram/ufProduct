@@ -47,7 +47,25 @@ class CustomNavbar extends Component {
 										</Link>
 									</li>
 
-									<li className="dropdown submenu nav-item">
+									<li className="nav-item">
+										<Link to="/About" className="nav-link">
+											About
+										</Link>
+									</li>
+
+									<li className="nav-item">
+										<Link to="/Team" className="nav-link">
+											Team
+										</Link>
+									</li>
+
+									<li className="nav-item">
+										<Link to="/Fellowship" className="nav-link">
+											Fellowship
+										</Link>
+									</li>
+
+									{/* <li className="dropdown submenu nav-item">
 										<Link
 											to="./"
 											title="Pages"
@@ -131,37 +149,8 @@ class CustomNavbar extends Component {
 												</NavLink>
 											</li>
 										</ul>
-									</li>
+									</li> */}
 
-									<li className="nav-item dropdown submenu">
-										<a
-											className="nav-link dropdown-toggle"
-											href=".#"
-											role="button"
-											data-toggle="dropdown"
-											aria-haspopup="true"
-											aria-expanded="false"
-										>
-											Blog
-										</a>
-										<ul className="dropdown-menu">
-											<li className="nav-item">
-												<NavLink to="/Bloglist" className="nav-link">
-													Blog List
-												</NavLink>
-											</li>
-											<li className="nav-item">
-												<NavLink to="/BlogGridPage" className="nav-link">
-													Blog Grid
-												</NavLink>
-											</li>
-											<li className="nav-item">
-												<NavLink to="/BlogSingle" className="nav-link">
-													Blog Single
-												</NavLink>
-											</li>
-										</ul>
-									</li>
 									<li className="nav-item">
 										<NavLink title="Pricing" className="nav-link" to="/Contact">
 											Contact
