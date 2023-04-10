@@ -48,12 +48,6 @@ class CustomNavbar extends Component {
 									</li>
 
 									<li className="nav-item">
-										<Link to="/About" className="nav-link">
-											About
-										</Link>
-									</li>
-
-									<li className="nav-item">
 										<Link to="/Team" className="nav-link">
 											Team
 										</Link>

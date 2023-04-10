@@ -47,9 +47,8 @@ class App extends Component {
 			<Router>
 				<Switch>
 					<ScrollToTopRoute exact={true} path={'/'} component={Home} />
-					<ScrollToTopRoute path="/About" component={About} />
-					<ScrollToTopRoute path="/Fellowship" component={Fellowship} />
 					<ScrollToTopRoute path="/Team" component={Team} />
+					<ScrollToTopRoute path="/Fellowship" component={Fellowship} />
 					<ScrollToTopRoute path="/Contact" component={Contact} />
 					<ScrollToTopRoute
 						path="/Digital-marketing"
@@ -59,6 +58,7 @@ class App extends Component {
 						path="/Payment-processing"
 						component={PaymentProcessing}
 					/>
+					<ScrollToTopRoute path="/About" component={About} />
 					<ScrollToTopRoute path="/HR-Management" component={HRManagement} />
 					<ScrollToTopRoute path="/Startup" component={Startup} />
 					<ScrollToTopRoute path="/Home-CRM" component={HomeCRM} />
