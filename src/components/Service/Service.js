@@ -16,17 +16,12 @@ const Service = () => {
 							<div className="col-lg-4 col-md-6">
 								<div className="seo_service_item">
 									<img src={require('../../img/seo/icon1.png')} alt="" />
-									<a href=".#">
-										<h4>Product Management</h4>
-									</a>
+									<h4>Product Management</h4>
 									<p>
-										Twit cras excuse my French matie boy grub it's all gone to
-										pot off his nut butty horse play blow off pardon you hanky
-										panky.!
+										Oversees the development, strategy, and successful launch of
+										products, while ensuring they meet customer needs, business
+										goals, and market demand.
 									</p>
-									<a href=".#">
-										<i className="arrow_right"></i>
-									</a>
 								</div>
 							</div>
 						</Fade>
@@ -34,17 +29,12 @@ const Service = () => {
 							<div className="col-lg-4 col-md-6">
 								<div className="seo_service_item">
 									<img src={require('../../img/seo/icon2.png')} alt="" />
-									<a href=".#">
-										<h4>Product Design</h4>
-									</a>
+									<h4>Product Design</h4>
 									<p>
-										Twit cras excuse my French matie boy grub it's all gone to
-										pot off his nut butty horse play blow off pardon you hanky
-										panky.!
+										The process of creating functional and aesthetically
+										pleasing products that meet user needs, solve problems, and
+										deliver a positive user experience.
 									</p>
-									<a href=".#">
-										<i className="arrow_right"></i>
-									</a>
 								</div>
 							</div>
 						</Fade>
@@ -52,17 +42,12 @@ const Service = () => {
 							<div className="col-lg-4 col-md-6">
 								<div className="seo_service_item">
 									<img src={require('../../img/seo/icon5.png')} alt="" />
-									<a href=".#">
-										<h4>Product Marketing</h4>
-									</a>
+									<h4>Product Marketing</h4>
 									<p>
-										Twit cras excuse my French matie boy grub it's all gone to
-										pot off his nut butty horse play blow off pardon you hanky
-										panky.!
+										Encompasses the strategic planning, execution, and promotion
+										of products, aiming to generate customer interest, drive
+										sales, and create brand awareness.
 									</p>
-									<a href=".#">
-										<i className="arrow_right"></i>
-									</a>
 								</div>
 							</div>
 						</Fade>
