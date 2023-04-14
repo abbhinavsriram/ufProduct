@@ -72,20 +72,23 @@ const Service = () => {
 						<div className="col-lg-6">
 							<Fade bottom cascade>
 								<div className="seo_features_content">
-									<h2>Get tips & tricks on how to skyrocket your sales.</h2>
+									<h2>Further your passion for product and build with us</h2>
 									<p>
-										Faff about only a quid blower I don't want no agro bleeding
-										chimney pot burke tosser cras nice one boot fanny.!
+										At Product Space, we aim to become future leaders in product
+										by gaining hands-on experience in our capstone projects as
+										well as demonstrating a sense of community, empathy, and
+										growth—our three core values that we uphold throughout our
+										organization.
 									</p>
-									<div className="media seo_features_item">
+									{/* <div className="media seo_features_item">
 										<div className="icon">
 											<img src={require('../../img/seo/icon4.png')} alt="" />
 										</div>
 										<div className="media-body">
 											<h3>Reporting & Analysis</h3>
 											<p>
-												Naff are you taking the piss say blow off faff about
-												wellies richard.
+												Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+												sed do eiusmod tempor incididunt
 											</p>
 										</div>
 									</div>
@@ -96,11 +99,11 @@ const Service = () => {
 										<div className="media-body">
 											<h3>Reporting & Analysis</h3>
 											<p>
-												Naff are you taking the piss say blow off faff about
-												wellies richard.
+												Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+												sed do eiusmod tempor incididunt
 											</p>
 										</div>
-									</div>
+									</div> */}
 								</div>
 							</Fade>
 						</div>
