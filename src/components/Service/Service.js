@@ -80,6 +80,12 @@ const Service = () => {
 										growth—our three core values that we uphold throughout our
 										organization.
 									</p>
+									<p>
+										Explore different product paths by joining us in our general
+										body meetings as well as introductory workshops. In these
+										meetings, you will find problems and deliver real solutions
+										using your product skills.
+									</p>
 									{/* <div className="media seo_features_item">
 										<div className="icon">
 											<img src={require('../../img/seo/icon4.png')} alt="" />
@@ -126,12 +132,10 @@ const Service = () => {
 						<div className="col-lg-6 d-flex align-items-center">
 							<Fade bottom cascade>
 								<div className="seo_features_content">
-									<h2 className="wow fadeInUp">
-										Get tips & tricks on how to skyrocket your sales.
-									</h2>
+									<h2 className="wow fadeInUp">Our Fellowship Program</h2>
 									<h6 className="wow fadeInUp">
-										What a plonker bamboozled so I said say what a load of
-										rubbish owt to do with me haggle.
+										Join our high growth training program and prepare for
+										recruitment and interviews.
 									</h6>
 									<p className="wow fadeInUp">
 										Cheeky bugger gosh codswallop chap bamboozled blatant
@@ -140,12 +144,12 @@ const Service = () => {
 										a spend a penny spiffing I don't want no agro tinkety tonk
 										old fruit.
 									</p>
-									<a
+									{/* <a
 										href=".#"
 										className="seo_btn seo_btn_one btn_hover wow fadeInUp"
 									>
 										Learn More
-									</a>
+									</a> */}
 								</div>
 							</Fade>
 						</div>
