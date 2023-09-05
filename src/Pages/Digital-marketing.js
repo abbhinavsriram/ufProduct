@@ -16,7 +16,7 @@ const DigitalMarketing = () => {
     return(
         <div className="body_wrapper">
             <CustomNavbar mClass="menu_four" cClass="custom_container p0" nClass="pl_120 mr-auto ml-auto" hbtnClass="menu_cus"/>
-            <AgencyBanner BannerData={BannerData}/>
+            {/*<AgencyBanner BannerData={BannerData}/>*/}
             <MarketingService ServiceData={ServiceData}/>
             <AgencyAbout ServiceData={ServiceData}/>
             <Features/>
