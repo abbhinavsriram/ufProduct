@@ -19,9 +19,8 @@ const Team = () => {
 				breadcrumbClass="breadcrumb_area breadcrumb_area_three"
 				imgName="ufbackground.png"
 				Ptitle="Our Team"
-				Pdescription="Why I say old chap that is spiffing off his nut arse pear shaped plastered Jeffrey bodge barney some dodgy.!!"
+				Pdescription="Meet our exective board!"
 			/>
-			<Sservice />
 			<Teams />
 			{/* <Partner pClass="partner_logo_area_five bg_color" /> */}
 			<FooterTwo FooterData={FooterData} />

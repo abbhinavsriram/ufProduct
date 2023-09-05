@@ -164,29 +164,29 @@ const FooterData = {
         id: 1,
         image: "new/member_01.jpg",
         description: "He nicked it hanky panky Eaton naff it's your round quaint cheeky cheers, tomfoolery bonnet posh blimey what a plonker vagabond, zonked Elizabeth give us a bell.?",
-        authorName: "Phillip Anthropy",
-        authorPost: "UI/UX designer", 
+        authorName: "Aarsh Chokshi",
+        authorPost: "Co-President", 
       },
       {
         id: 2,
         image: "new/member_01.jpg",
         description: "He nicked it hanky panky Eaton naff it's your round quaint cheeky cheers, tomfoolery bonnet posh blimey what a plonker vagabond, zonked Elizabeth give us a bell.?",
-        authorName: "Phillip Anthropy",
-        authorPost: "UI/UX designer", 
+        authorName: "Aarsh Chokshi",
+        authorPost: "Co-President", 
       },
       {
         id: 3,
         image: "new/member_01.jpg",
         description: "He nicked it hanky panky Eaton naff it's your round quaint cheeky cheers, tomfoolery bonnet posh blimey what a plonker vagabond, zonked Elizabeth give us a bell.?",
-        authorName: "Phillip Anthropy",
-        authorPost: "UI/UX designer", 
+        authorName: "Aarsh Chokshi",
+        authorPost: "Co-President", 
       },
       {
         id: 4,
         image: "new/member_01.jpg",
         description: "He nicked it hanky panky Eaton naff it's your round quaint cheeky cheers, tomfoolery bonnet posh blimey what a plonker vagabond, zonked Elizabeth give us a bell.?",
-        authorName: "Phillip Anthropy",
-        authorPost: "UI/UX designer", 
+        authorName: "Aarsh Chokshi",
+        authorPost: "Co-President", 
       }
     ],
     aboutLinks: [
@@ -355,6 +355,9 @@ const FooterData = {
         url: '#',
         text: 'See All team',
       },
+      
     ],
+    
 };
+
 export default FooterData;

@@ -8,6 +8,7 @@ class Footer extends Component {
             <footer className="new_footer_area bg_color">
                 <div className="new_footer_top">
                     <div className="container">
+                        {/*
                         <div className="row">
                             {
                                 FooterData.CompanyWidget.map(widget=>{
@@ -74,6 +75,7 @@ class Footer extends Component {
                                 })
                             }
                         </div>
+                        */}
                         
                     </div>
                     <div className="footer_bg">

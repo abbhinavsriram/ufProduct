@@ -11,6 +11,7 @@ class FooterTwo extends Component {
 			<footer className={`footer_area footer_area_four f_bg ${fClass}`}>
 				<div className="footer_top">
 					<div className="container">
+						{/* 
 						<div className="row">
 							{FooterData.CompanyWidget.map((widget) => {
 								return (
@@ -27,10 +28,10 @@ class FooterTwo extends Component {
 													<p className="f_400 f_p f_size_15 mb-0 l_height34">
 														<span>Email:</span>{' '}
 														<a
-															href="mailto:saasland@gmail.com"
+															href="mailto:productspaceuf@gmail.com"
 															className="f_400"
 														>
-															saasland@gmail.com
+															productspaceuf@gmail.com
 														</a>
 													</p>
 													<p className="f_400 f_p f_size_15 mb-0 l_height34">
@@ -67,6 +68,7 @@ class FooterTwo extends Component {
 							/>
 							<TeamWidget ftitle="Team Solutions" FooterData={FooterData} />
 						</div>
+						*/}
 					</div>
 				</div>
 				<div className="footer_bottom">

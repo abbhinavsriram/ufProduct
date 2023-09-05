@@ -5,22 +5,22 @@ const Team =()=>{
     return(
         <section className="experts_team_area sec_pad">
             <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="The Experts Team" tClass="t_color3" TitleP="Why I say old chap that is spiffing barney, nancy boy bleeder chimney pot richard cheers the little rotter.!"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UF Product Space Executive Board"/>
                 <div className="row">
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_01.jpg" memberN="Phillip Anthropy" memberd="web designer"/>
+                        <Teamitem teamImage="team_01.jpg" memberN="Aarsh Chokshi" memberd="co president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_02.jpg" memberN="Gordon Norman" memberd="UI/UX designer"/>
+                        <Teamitem teamImage="team_02.jpg" memberN="Ryan Popov" memberd="co president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_03.jpg" memberN="Dylan Meringue" memberd="web designer"/>
+                        <Teamitem teamImage="team_03.jpg" memberN="Donovan Spall" memberd="director"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_04.jpg" memberN="Bailey Wonger" memberd="Marketer"/>
+                        <Teamitem teamImage="team_04.jpg" memberN="William Teke" memberd="director"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_5.jpg" memberN="Giles Posture" memberd="App designer"/>
+                        <Teamitem teamImage="team_5.jpg" memberN="Sofia Rizzo" memberd="director"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_6.jpg" memberN="Rodney Artichoke" memberd="UI/UX designer"/>

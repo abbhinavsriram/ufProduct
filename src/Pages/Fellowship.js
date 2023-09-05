@@ -16,7 +16,7 @@ const Fellowship = () => {
 				breadcrumbClass="breadcrumb_area"
 				imgName="breadcrumb/banner_bg.png"
 				Ptitle="Our Process"
-				Pdescription="Why I say old chap that is spiffing off his nut arse pear shaped plastered Jeffrey bodge barney some dodgy.!!"
+				Pdescription="The Fellowship Program Broken Down"
 			/>
 			<section className="process_area bg_color sec_pad">
 				<div className="container">
@@ -31,40 +31,40 @@ const Fellowship = () => {
 							aClass="pr_70 pl_70"
 							fimage="process_1.png"
 							iImg="icon01.png"
-							ftitle="With efficiency to unlock more opportunities"
-							descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"
+							ftitle="Apply and Interview"
+							descriptions="The first step to kickstart your journey in the UF Product Space Fellowship Program is to apply and interview. This is your opportunity to showcase your passion for product management, your relevant skills, and your eagerness to learn. Our application process is designed to select candidates who are not only academically strong but also possess the curiosity and drive needed to excel in the program."
 						/>
 						<Featuresitems
 							rowClass="row"
 							aClass="pl_100"
 							fimage="process_2.png"
 							iImg="icon02.png"
-							ftitle="Wuth instant data to keep everyone in the know"
-							descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"
+							ftitle="Attend Fellowship Sessions"
+							descriptions="Once selected, fellows embark on a transformative experience by attending fellowship sessions. These sessions cover a wide range of topics, from product strategy and design thinking to market analysis and project management. Our dedicated mentors and industry experts lead these sessions, providing valuable insights and practical knowledge to help you become a well-rounded product manager."
 						/>
 						<Featuresitems
 							rowClass="row flex-row-reverse"
 							aClass="pr_70 pl_70"
 							fimage="process_3.png"
 							iImg="icon3.png"
-							ftitle="With efficiency to unlock more opportunities"
-							descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"
+							ftitle="Work on a Client Project"
+							descriptions="One of the highlights of the UF Product Space Fellowship Program is the opportunity to work on a real client project. As a fellow, you will collaborate with industry partners, applying the skills and concepts you've learned during your fellowship sessions to solve real-world challenges. This hands-on experience not only enhances your problem-solving abilities but also allows you to build a portfolio that showcases your expertise to future employers."
 						/>
 						<Featuresitems
 							rowClass="row"
 							aClass="pl_100"
 							fimage="process_4.png"
 							iImg="icon_04.png"
-							ftitle="With efficiency to unlock more opportunities"
-							descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"
+							ftitle="Become a Fellowship Lead"
+							descriptions="As you progress in the program, you have the chance to take on leadership roles by becoming a Fellowship Lead. This role involves mentoring and guiding junior fellows, facilitating sessions, and contributing to the program's growth. It's an excellent opportunity to further develop your leadership and communication skills while giving back to the UF Product Space community."
 						/>
 						<Featuresitems
 							rowClass="row flex-row-reverse"
 							aClass="pr_70 pl_70"
 							fimage="process_5.png"
 							iImg="icon_05.png"
-							ftitle="With efficiency to unlock more opportunities"
-							descriptions="Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo squiffy. Starkers dropped a clanger lurgy is cack excuse my French what a plonker blower.!"
+							ftitle="Join Executive Board"
+							descriptions="For those looking to make a lasting impact on the UF Product Space community, joining the Executive Board is the ultimate goal. As a member of the board, you'll play a pivotal role in shaping the program's future, organizing events, and collaborating with industry partners. This leadership position not only provides an unparalleled learning experience but also opens doors to valuable connections and opportunities in the product management field."
 						/>
 						<div className="dot middle_dot">
 							<span className="dot1"></span>
