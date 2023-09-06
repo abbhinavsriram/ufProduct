@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 
 class Subscribe extends Component {
 	render() {
-		let FooterData = this.props.FooterData;
+		//let FooterData = this.props.FooterData;
 		return (
 			<React.Fragment>
 				<section className="seo_partner_logo_area sec_pad">

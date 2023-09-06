@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import FooterData from '../Footer/FooterData';
 
 class Teamitem extends Component {
     render(){
@@ -15,15 +14,6 @@ class Teamitem extends Component {
                 </div>
                 <div className="hover_content">
                     <div className="n_hover_content">
-                        {/*<ul className="list-unstyled">
-                            {
-                                FooterData.socialIcon.map(item=>{
-                                    return(
-                                        <li key={item.id}><a href={item.url}><i className={`${item.icon}`}></i></a></li>
-                                    )
-                                })
-                            }
-                        </ul>*/}
                         <div className="br"></div>
                         <a href=".#">
                             <h3 className="f_p f_size_16 f_600 w_color">{memberN}</h3>

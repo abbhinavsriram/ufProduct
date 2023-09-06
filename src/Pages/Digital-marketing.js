@@ -1,6 +1,5 @@
 import React from 'react';
 import CustomNavbar from '../components/CustomNavbar';
-import AgencyBanner from '../components/Banner/AgencyBanner';
 import BannerData from '../components/Banner/BannerData';
 import MarketingService from '../components/Service/MarketingService';
 import ServiceData from '../components/Service/ServiceData';

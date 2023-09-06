@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import Stserviceitems from './StserviceItem';
-import Reveal from 'react-reveal/Reveal';
 class Sservice extends Component{
     render(){
         return(
