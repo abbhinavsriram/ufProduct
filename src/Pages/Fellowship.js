@@ -63,7 +63,7 @@ const Fellowship = () => {
 							aClass="pr_70 pl_70"
 							fimage="process_5.png"
 							iImg="icon_05.png"
-							ftitle="Join Executive Board"
+							ftitle="Join the Executive Board"
 							descriptions="For those looking to make a lasting impact on the UF Product Space community, joining the Executive Board is the ultimate goal. As a member of the board, you'll play a pivotal role in shaping the program's future, organizing events, and collaborating with industry partners. This leadership position not only provides an unparalleled learning experience but also opens doors to valuable connections and opportunities in the product management field."
 						/>
 						<div className="dot middle_dot">

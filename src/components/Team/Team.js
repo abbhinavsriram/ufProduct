@@ -22,6 +22,7 @@ const Team =()=>{
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_5.jpg" memberN="Sofia Rizzo" memberd="director"/>
                     </div>
+                    {/*
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_6.jpg" memberN="Rodney Artichoke" memberd="UI/UX designer"/>
                     </div>
@@ -43,6 +44,7 @@ const Team =()=>{
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_12.jpg" memberN="Norman Gordon" memberd="Web developer"/>
                     </div>
+                    */}
                 </div>
             </div>
         </section>
