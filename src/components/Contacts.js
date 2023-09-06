@@ -125,6 +125,7 @@ class Contacts extends Component {
     }
 
     render(){
+        
         // const {name, email, subject, message, emailStatus} = this.state;
         return(
             <section className="contact_info_area sec_pad bg_color">
@@ -141,8 +142,12 @@ class Contacts extends Component {
                                 <p className="f_400 f_size_15"><span className="f_400 t_color3">Phone:</span> <a href="tel:3024437488">(+096) 302 443 7488</a></p>
                                 <p className="f_400 f_size_15"><span className="f_400 t_color3">Fax:</span> <a href="tel:3024437488">(+096) 204 353 6684</a></p>
                                 */}
-                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Email:</span> <a href="mailto:productspaceuf@gmail.com">productspaceuf@gmail.com</a></p>
+                                
+                                <p className="f_400 f_size_15 mb-3"><span className="f_400 t_color3">Email:</span> <a href="mailto:productspaceuf@gmail.com">productspaceuf@gmail.com</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Insta:</span> <a href="https://www.instagram.com/ufproductspace/">ufproductspace</a></p>
+
                             </div>
+                            
                         </div>
                         <div className="contact_form col-lg-9">
                             <h2 className="f_p f_size_22 t_color3 f_600 l_height28 mb_40">Leave a Message</h2>

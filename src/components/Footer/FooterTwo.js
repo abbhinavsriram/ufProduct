@@ -7,7 +7,7 @@ class FooterTwo extends Component {
 			<footer className={`footer_area footer_area_four f_bg ${fClass}`}>
 				<div className="footer_top">
 					<div className="container">
-						{/* 
+						 {/*
 						<div className="row">
 							{FooterData.CompanyWidget.map((widget) => {
 								return (
@@ -77,7 +77,7 @@ class FooterTwo extends Component {
 								<div className="f_social_icon_two text-center">
 									{FooterData.socialIcon.map((item) => {
 										return (
-											<a href="/" key={item.id}>
+											<a href={item.url} key={item.id}>
 												<i className={item.icon}></i>
 											</a>
 										);

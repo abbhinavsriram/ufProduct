@@ -5,7 +5,7 @@ const Team =()=>{
     return(
         <section className="experts_team_area sec_pad">
             <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UF Product Space Executive Board"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UF Product Space Executive Board and Fellowship Leads"/>
                 <div className="row">
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_01.jpg" memberN="Aarsh Chokshi" memberd="co president"/>
