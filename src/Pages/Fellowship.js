@@ -32,7 +32,7 @@ const Fellowship = () => {
 							fimage="process_1.png"
 							iImg="icon01.png"
 							ftitle="Apply and Interview"
-							descriptions="The first step to kickstart your journey in the UF Product Space Fellowship Program is to apply and interview. This is your opportunity to showcase your passion for product management, your relevant skills, and your eagerness to learn. Our application process is designed to select candidates who are not only academically strong but also possess the curiosity and drive needed to excel in the program."
+							descriptions="The first step to kickstart your journey in the UF Product Space Fellowship Program is to apply and interview. Our application process is designed to select candidates who are not only academically strong but also possess the curiosity and drive needed to excel in the program."
 						/>
 						<Featuresitems
 							rowClass="row"
@@ -48,7 +48,7 @@ const Fellowship = () => {
 							fimage="process_3.png"
 							iImg="icon3.png"
 							ftitle="Work on a Client Project"
-							descriptions="One of the highlights of the UF Product Space Fellowship Program is the opportunity to work on a real client project. As a fellow, you will collaborate with industry partners, applying the skills and concepts you've learned during your fellowship sessions to solve real-world challenges. This hands-on experience not only enhances your problem-solving abilities but also allows you to build a portfolio that showcases your expertise to future employers."
+							descriptions="One of the highlights of the Fellowship Program is the opportunity to work on a client project. As a fellow, you will collaborate with industry partners, applying the skills you've learned, to solve real-world challenges. This hands-on experience not only enhances your problem-solving abilities but also allows you to build a portfolio that showcases your expertise to future employers."
 						/>
 						<Featuresitems
 							rowClass="row"
@@ -64,7 +64,7 @@ const Fellowship = () => {
 							fimage="process_5.png"
 							iImg="icon_05.png"
 							ftitle="Join the Executive Board"
-							descriptions="For those looking to make a lasting impact on the UF Product Space community, joining the Executive Board is the ultimate goal. As a member of the board, you'll play a pivotal role in shaping the program's future, organizing events, and collaborating with industry partners. This leadership position not only provides an unparalleled learning experience but also opens doors to valuable connections and opportunities in the product management field."
+							descriptions="For those looking to make a lasting impact on the Product Space community, joining the Executive Board is the ultimate goal. As a board member, you'll play a pivotal role in shaping the program's future, organizing events, and collaborating with industry partners. This leadership position provides an unparalleled learning experience and also opens doors to valuable connections & opportunities in the product management field."
 						/>
 						<div className="dot middle_dot">
 							<span className="dot1"></span>
