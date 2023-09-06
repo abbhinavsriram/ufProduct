@@ -158,7 +158,7 @@ const FooterData = {
         icon: 'ti-pinterest',
       }
     ],
-    copywrite:"© SaasLand Inc.. 2019 All rights reserved.",
+    copywrite:"© Product Space UF",
     TestimonialText: [
       {
         id: 1,

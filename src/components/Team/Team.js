@@ -22,16 +22,16 @@ const Team =()=>{
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_5.jpg" memberN="Sofia Rizzo" memberd="director"/>
                     </div>
-                    {/*
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_6.jpg" memberN="Rodney Artichoke" memberd="UI/UX designer"/>
+                        <Teamitem teamImage="team_6.jpg" memberN="Shaina Desroches" memberd="fellowship lead"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_7.jpg" memberN="Jackson Pot" memberd="Marketer"/>
+                        <Teamitem teamImage="team_7.jpg" memberN="Ikram Loutfi" memberd="fellowship lead"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_8.jpg" memberN="Bailey Wonger" memberd="Marketer"/>
+                        <Teamitem teamImage="team_8.jpg" memberN="Alfredo Auris" memberd="fellowship lead"/>
                     </div>
+                     {/*
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_9.jpg" memberN="Max Conversion" memberd="Social Marketer"/>
                     </div>
