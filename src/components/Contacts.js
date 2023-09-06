@@ -128,14 +128,10 @@ class Contacts extends Component {
         
         // const {name, email, subject, message, emailStatus} = this.state;
         return(
-            <section className="contact_info_area sec_pad bg_color">
-                <div className="container">
+            <section className="contact_info_area sec_pad bg_color ">
+                <div className="container text-center">
                     <div className="row">
-                        <div className="col-lg-3">
-                            <div className="contact_info_item">
-                                <h6 className="f_p f_size_20 t_color3 f_500 mb_20">Address</h6>
-                                <p className="f_400 f_size_15">1325 West University Avenue Heavener, Hall 333, Gainesville, FL 32611</p>
-                            </div>
+                        <div className="col-lg-3 mx-auto">
                             <div className="contact_info_item">
                                 <h6 className="f_p f_size_20 t_color3 f_500 mb_20">Contact Info</h6>
                                 {/**
@@ -148,7 +144,14 @@ class Contacts extends Component {
 
                             </div>
                             
+                            <div className="contact_info_item">
+                                <h6 className="f_p f_size_20 t_color3 f_500 mb_20">Address</h6>
+                                <p className="f_400 f_size_15">1325 West University Avenue Heavener, Hall 333, Gainesville, FL 32611</p>
+                            </div>
+                            
+                            
                         </div>
+                        {/*
                         <div className="contact_form col-lg-9">
                             <h2 className="f_p f_size_22 t_color3 f_600 l_height28 mb_40">Leave a Message</h2>
                             <form onSubmit={this.submitForm} className="contact_form_box" method="post" id="contactForm">
@@ -176,10 +179,10 @@ class Contacts extends Component {
                                 </div>
                                 <button type="submit" className="btn_three">Send Message</button>
                             </form>
-                            {/* {emailStatus ? emailStatus : null} */}
+                             {emailStatus ? emailStatus : null} 
                             <div id="success">Your message succesfully sent!</div>
                             <div id="error">Opps! There is something wrong. Please try again</div>
-                        </div>
+                        </div>*/}
                     </div>
                     
                 </div>
