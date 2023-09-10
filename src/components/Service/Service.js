@@ -138,7 +138,7 @@ const Service = () => {
 										recruitment and interviews.
 									</h6>
 									<p className="wow fadeInUp">
-										Our fellowship program, which takes over the course of a
+										Our fellowship program, which takes place over the course of a
 										semester, will not only introduce you to product management
 										but also other like-minded fellows that want to pursue their
 										passion in product. You will also be mentored as you prepare
