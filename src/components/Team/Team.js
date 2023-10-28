@@ -8,28 +8,28 @@ const Team =()=>{
                 <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UF Product Space Executive Board and Fellowship Leads"/>
                 <div className="row">
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_01.jpg" memberN="Aarsh Chokshi" memberd="co president"/>
+                        <Teamitem teamImage="team_01.jpg" memberN="Aarsh Chokshi" memberd="Co-president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_02.jpg" memberN="Ryan Popov" memberd="co president"/>
+                        <Teamitem teamImage="team_02.jpg" memberN="Ryan Popov" memberd="Co-president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_03.jpg" memberN="Donovan Spall" memberd="director"/>
+                        <Teamitem teamImage="team_03.jpg" memberN="Donovan Spall" memberd="Director"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_04.jpg" memberN="William Teke" memberd="director"/>
+                        <Teamitem teamImage="team_04.jpg" memberN="William Teke" memberd="Director"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_5.jpg" memberN="Sofia Rizzo" memberd="director"/>
+                        <Teamitem teamImage="team_5.jpg" memberN="Sofia Rizzo" memberd="Director"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_6.jpg" memberN="Shaina Desroches" memberd="fellowship lead"/>
+                        <Teamitem teamImage="team_6.jpg" memberN="Shaina Desroches" memberd="Fellowship Lead"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_7.jpg" memberN="Ikram Loutfi" memberd="fellowship lead"/>
+                        <Teamitem teamImage="team_7.jpg" memberN="Ikram Loutfi" memberd="Fellowship Lead"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_8.jpg" memberN="Alfredo Auris" memberd="fellowship lead"/>
+                        <Teamitem teamImage="team_8.jpg" memberN="Alfredo Auris" memberd="Fellowship Lead"/>
                     </div>
                      {/*
                     <div className="col-lg-3 col-sm-6">
