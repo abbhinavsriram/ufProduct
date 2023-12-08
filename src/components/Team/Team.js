@@ -47,6 +47,36 @@ const Team =()=>{
                     */}
                 </div>
             </div>
+            <div className="container">
+                <Sectitle sClass="sec_title text-center mb_70" Title="The Fellows" tClass="t_color3" TitleP="2023 Fall"/>
+                <div className="row">
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="anikethm.jpg" memberN="Aniketh Mukhirala" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="aravinds.jpg" memberN="Aravind Shankar" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="jellanef.jpg" memberN="Jellane Fauni" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="jinghanw.jpg" memberN="Jinghan Wu" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="phuh.jpg" memberN="Phu Huynh" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="sophiab.jpg" memberN="Sophia Baccari" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="stephanieg.jpg" memberN="Stephanie Goris" memberd="fellow"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="avav.jpg" memberN="Ava Vellozzi" memberd="fellow"/>
+                    </div>
+                     {}
+                </div>
+            </div>
         </section>
         
     )
