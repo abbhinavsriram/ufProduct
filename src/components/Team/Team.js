@@ -11,7 +11,7 @@ const Team =()=>{
                         <Teamitem teamImage="team_01.jpg" memberN="Aarsh Chokshi" memberd="Co-president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_02.jpg" memberN="Ryan Popovvvvvvvv" memberd="Co-president"/>
+                        <Teamitem teamImage="team_02.jpg" memberN="Ryan Popov" memberd="Co-president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_03.jpg" memberN="Donovan Spall" memberd="Director"/>
